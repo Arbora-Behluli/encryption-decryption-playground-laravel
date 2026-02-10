@@ -54,5 +54,5 @@ This project is part of a broader thesis exploring:
 # Author
 
 **Arbora Behluli**  
-Computer Science Graduate  
+Computer Science and Engineering Graduate  
 Interested in Cybersecurity, Cryptography, and Backend Development
