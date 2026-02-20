@@ -5,4 +5,3 @@ services:
     plan: free
     root: .
     buildCommand: "composer install"
-    startCommand: "apache2-foreground -D FOREGROUND -f public/.htaccess"
